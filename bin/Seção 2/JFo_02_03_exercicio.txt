@@ -1,0 +1,11 @@
+    Objeto 1: Caixa de Papelão
+    Propriedades: Tamanho, Design e Material
+    Comportamentos: Armazenar cobrar, Personalização e Empacotamento
+
+    Objeto 2: Cobra transportadora
+    Propriedades: Comprimento, Velocidade e Segurança
+    Comportamentos: Transporte, Detecção de Caixas e Controle de Velocidade
+
+    Objeto 3: Software de pedidos digitalizado
+    Propriedades: Interface de usuário, armazenamento e processamento de dados
+    Comportamentos: Registro de pedidos, geração de relatórios e notificações
